@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Teamslackpull my real name is Nabil i love powerlifting and fitness 
-- 👀 I’m interested in: building websites and applications and apps
-- 🌱 I’m currently learning: all of the above things lol just started
+- 👋 Hi, I’m @Teamslackpull my real name is Nabil i love powerlifting and fitness and coding
+- 👀 I’m interested in: building websites and applications and apps 
+- 🌱 I’m currently learning: all of the above things lol just started (Updated : Im came a long way with learning how to code with alot to learn along the way.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
